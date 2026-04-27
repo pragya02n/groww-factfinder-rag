@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+ENV/
+env/
+Phase 1/.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Local Data (keep local history out of the cloud)
+Phase 4/user_profile.json
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
