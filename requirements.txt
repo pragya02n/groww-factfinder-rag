@@ -7,6 +7,6 @@ langchain-text-splitters>=0.3.0
 chromadb>=0.5.0,<0.6.0
 sentence-transformers>=3.0.0
 rich>=13.0.0
-torch --index-url https://download.pytorch.org/whl/cpu
 numpy
 protobuf>=4.25.0,<5.0.0
+torch
